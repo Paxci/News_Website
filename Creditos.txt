@@ -1,0 +1,8 @@
+Este proyecto se realizo casi completamente con codigo de procedencia de Fazt. el canal de youtube, dejo 
+los enlaces de su canal, el video y el github de él.
+
+canal: https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg
+
+tutorial: https://www.youtube.com/watch?v=Q2imkhmhOFo&list=WL&index=34&t=60s
+
+github del proyecto: https://github.com/FaztWeb/technews-html
